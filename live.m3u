@@ -153,7 +153,7 @@ https://nhkwlive-ojp.akamaized.net/hls/live/2003459/nhkwlive-ojp-en/index.m3u8
 #EXTINF:-1 tvg-id=" " group-title="Japan" tvg-logo="https://i.imgur.com/SQISXoD.jpg",NHK World Japan (720p)
 https://nhkworld.webcdn.stream.ne.jp/www11/nhkworld-tv/global/2003458/live.m3u8
 #EXTINF:-1 tvg-id=" " group-title="Japan" tvg-logo="",Nippon TV
-http://redlabmcdn.s.llnwi.net/jp01/ryowa3/index.m3u8
+http://redlabmcdn.s.llnwi.net/jp04/ryowa3hd/playlist.m3u8
 #EXTINF:-1 tvg-id=" " group-title="Japan" tvg-logo="",Nippon TV
 https://ntv.mov3.co/hls/ntv.m3u8
 #EXTINF:-1 tvg-id=" " group-title="Japan" tvg-logo="http://www.itver.cc/wp-content/uploads/2015/07/NTV.png",Nippon TV (JOAX-DTV)
@@ -165,7 +165,7 @@ https://n24-cdn-live.ntv.co.jp/ch01/High.m3u8
 #EXTINF:-1 tvg-id=" " group-title="Japan" tvg-logo="https://i.imgur.com/Ya4yHpC.jpg",NTV News24 (480p)
 https://www.news24.jp/livestream/index.m3u8
 #EXTINF:-1 tvg-id=" " group-title="Japan" tvg-logo="",TBS
-http://redlabmcdn.s.llnwi.net/jp01/ryowa5/index.m3u8
+http://redlabmcdn.s.llnwi.net/jp04/ryowa4hd/playlist.m3u8
 #EXTINF:-1 tvg-id=" " group-title="Japan" tvg-logo="",TBS
 https://tbs.mov3.co/hls/tbs.m3u8
 #EXTINF:-1 tvg-id=" " group-title="Japan" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/14/Tokyo_Broadcasting_System_logo_2020.svg/1280px-Tokyo_Broadcasting_System_logo_2020.svg.png",TBS (JORX-DTV)
@@ -177,14 +177,16 @@ https://movie.mcas.jp/mcas/smil:mx1_prod.smil/master.m3u8
 #EXTINF:-1 tvg-id=" " group-title="Japan" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6f/Tokyo_metropolitan_television_logo_%28rainbow%29.svg/800px-Tokyo_metropolitan_television_logo_%28rainbow%29.svg.png",Tokyo MX2 (360p)
 https://movie.mcas.jp/mcas/smil:mx2_prod.smil/master.m3u8
 #EXTINF:-1 tvg-id=" " group-title="Japan" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/51/TV_Asahi_Logo.svg/1280px-TV_Asahi_Logo.svg.png",TV Asahi
-http://203.162.235.41:16906
+http://122.155.180.8:5021/live/223
 #EXTINF:-1 tvg-id=" " group-title="Japan" tvg-logo="",TV Asahi
 http://redlabmcdn.s.llnwi.net/jp01/ryowa4/index.m3u8
 #EXTINF:-1 tvg-id=" " group-title="Japan" tvg-logo="https://i.imgur.com/vgEnHX6.png",TV Tokyo
 http://203.162.235.41:16908
 #EXTINF:-1 tvg-id=" " group-title="Japan" tvg-logo="https://i.imgur.com/vgEnHX6.png",TV Tokyo
-http://redlabmcdn.s.llnwi.net/jp01/ryowa6/tracks-v1a1/mono.m3u8
+http://redlabmcdn.s.llnwi.net/jp04/ryowa6hd/playlist.m3u8
 #EXTINF:-1 tvg-id=" " group-title="Japan" tvg-logo="https://dbbovgtu2bg0x.cloudfront.net/uploads/program/main_image/749853303/app_app_wether_news.png",Weather News
 https://movie.mcas.jp/mcas/smil:wn1.smil/master.m3u8
 #EXTINF:-1 tvg-id=" " group-title="Japan" tvg-logo="",WOWOWシネマ (Wowow Cinema)
 http://203.162.235.41:16916
+#EXTINF:-1 tvg-id="WakuWakuJapan.jp" tvg-name="WakuWaku Japan" tvg-country="JP" tvg-language="" tvg-logo="https://www.dialog.lk/dialogdocroot/content/images/channel-highlights/waku-waku-large.png" group-title="",WakuWaku Japan
+https://liveanevia.mncnow.id/live/eds/WakuWakuJapan/sa_dash_vmx/WakuWakuJapan.mpd
