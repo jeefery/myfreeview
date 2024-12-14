@@ -1,16 +1,15 @@
 #EXTM3U
-#EXT-X-INDEPENDENT-SEGMENTS
 
 #MY1
-#EXTINF:-1 group-title="MY" tvg-id="TV1"
+#EXTINF:-1 group-title="MY" tvg-id="TV1" tvg-logo="https://mifntechnology.github.io/siaranMy/logo/Tv1.png",TV1
 https://d25tgymtnqzu8s.cloudfront.net/smil:tv1/chunklist_b2596000_slENG.m3u8?id=1
 
 #MY2
-#EXTINF:-1 group-title="MY" tvg-id="TV2"
+#EXTINF:-1 group-title="MY" tvg-id="TV2" tvg-logo="https://mifntechnology.github.io/siaranMy/logo/Tv2.png",TV2
 https://d25tgymtnqzu8s.cloudfront.net/smil:tv1/chunklist_b2596000_slENG.m3u8?id=1
 
 #MY3
-#EXTINF:-1 group-title="MY" tvg-id="TV3"
+#EXTINF:-1 group-title="MY" tvg-id="TV3" tvg-logo="https://mifntechnology.github.io/siaranMy/logo/Tv3.png",TV3
 https://tonton-live-switch-ssar.akamaized.net/stream-tv3/master_1080.m3u8?bpkio_serviceid=6c0958d82a830a02ca0936d9cfab8311&bpkio_sessionid=
 #EXTM3U url-tvg="http://epg.utako.moe/jcom.xml,https://animenosekai.github.io/japanterebi-xmltv/guide.xml" tvg-shift=0 m3uautoload=1
 
